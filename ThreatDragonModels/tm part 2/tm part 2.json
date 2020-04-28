@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "tm part 2",
-    "description": "login page"
+    "description": "login page",
+    "owner": "ssa"
   },
   "detail": {
     "contributors": [
@@ -15,6 +16,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": ""
   }
 }
