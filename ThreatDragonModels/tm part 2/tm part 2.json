@@ -4,7 +4,11 @@
     "description": "login page"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "parth"
+      }
+    ],
     "diagrams": [
       {
         "title": "login page tm",
