@@ -103,8 +103,8 @@
               ],
               "z": 3,
               "hasOpenThreats": true,
-              "protocol": "HTTPS",
-              "isEncrypted": true,
+              "protocol": "HTTP",
+              "isEncrypted": false,
               "isPublicNetwork": true,
               "threats": [
                 {
@@ -296,7 +296,7 @@
                   "status": "Open",
                   "severity": "Medium",
                   "title": "payload injection",
-                  "type": "Repudiation",
+                  "type": "Information disclosure",
                   "description": "Query with XSS payload and SQL injection payloads.",
                   "mitigation": "Use validations or filters to remove or abandon the request."
                 }
