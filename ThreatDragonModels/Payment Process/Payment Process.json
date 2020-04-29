@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "Payment Process",
+    "description": "Model showing possible threats on payment process."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "parth"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Payment_tm",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
