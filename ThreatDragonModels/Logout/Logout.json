@@ -9,6 +9,12 @@
         "name": "Parth"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Logout_tm",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
