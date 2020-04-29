@@ -1,0 +1,14 @@
+{
+  "summary": {
+    "title": "Logout",
+    "description": "Logout Page"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Parth"
+      }
+    ],
+    "diagrams": []
+  }
+}
